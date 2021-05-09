@@ -4,7 +4,7 @@ const SelectCategory = ({ categoryList, setCategory }) => {
   };
   return (
     <div className="row justify-content-md-center">
-      <div className="col-12 col-md-4 ">
+      <div className="col-12">
         <select
           className="form-select"
           aria-label="Books Categories"
